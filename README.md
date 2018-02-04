@@ -32,3 +32,5 @@ Commands:
   delete <id>
     Delete email <id>.
 ```
+
+[![asciicast](https://asciinema.org/a/HLlReQLYSSqObAFeWsz3U0DN7.png)](https://asciinema.org/a/HLlReQLYSSqObAFeWsz3U0DN7)
