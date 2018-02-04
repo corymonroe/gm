@@ -1,0 +1,2 @@
+# gm
+Guerrilla Mail CLI
